@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Fitness Tracking App using React
+
+A web app that connects to an API I built for tracking fitness information like lifts, calories, and cardio. Also has user registration and authentification
+
+Demo:
+
+https://notefitness.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
