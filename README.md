@@ -4,7 +4,12 @@ A web app that connects to an API I built for tracking fitness information like 
 
 Demo:
 
+Username: test
+
+Password: test
+
 https://notefitness.herokuapp.com/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
